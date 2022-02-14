@@ -7,6 +7,12 @@ Cargo.lock
 # python
 pspnet/
 *.onnx
+.cache/
+.ipython/
+.ipynb_checkpoints/
+.jupyter/
+.local/
+.bash_history
 
 
 # docker
