@@ -13,6 +13,7 @@ pspnet/
 .jupyter/
 .local/
 .bash_history
+data/
 
 
 # docker
