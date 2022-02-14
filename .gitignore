@@ -11,3 +11,7 @@ pspnet/
 
 # docker
 .devcontainer/
+
+
+# data
+*.jpg
