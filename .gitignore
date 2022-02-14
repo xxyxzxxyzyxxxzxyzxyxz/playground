@@ -3,3 +3,11 @@ debug/
 target/
 
 Cargo.lock
+
+# python
+pspnet/
+*.onnx
+
+
+# docker
+.devcontainer/
